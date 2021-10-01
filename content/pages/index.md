@@ -4,8 +4,8 @@ sections:
   - type: hero_section
     title: We build awesome products to help grow your business
     subtitle: >-
-      I will handle your website design and production, social media accounts
-      and digital advertisements for you, at an affordable price.
+      From idea to final product, we'll do the hard job for you, Our experts and
+      techies will handle it!
     actions:
       - label: Contact Me
         url: /contact
